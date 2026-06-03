@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167805906999",
+    "project_id": "mychatapp-c4043",
+    "storage_bucket": "mychatapp-c4043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167805906999:android:63a13139559a195e6a8fb2",
+        "android_client_info": {
+          "package_name": "com.example.nine_hour_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGY8fw80U6rRE5oOEFWIm1tlM9hb-dShE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
